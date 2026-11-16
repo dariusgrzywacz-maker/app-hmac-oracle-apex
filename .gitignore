@@ -1,0 +1,12 @@
+# Oracle SQL*Plus / SQLcl generated files
+*.log
+*.lst
+*.out
+*.trc
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Blog article kept locally, not published with the repository
+/blog/
